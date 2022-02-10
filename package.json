@@ -12,7 +12,7 @@
     "mdbreact": "^4.22.1",
     "mobx": "^5.15.0",
     "moveto": "^1.7.4",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.4.1",
     "react": "^16.5.2",
     "react-async-script-loader": "^0.3.0",
